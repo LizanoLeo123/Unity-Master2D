@@ -1,0 +1,1720 @@
+fileFormatVersion: 2
+guid: 51472d1b49eedfa4392a1981a7e759d5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6605895173340245770
+    second: Armas_0
+  - first:
+      213: 9108163279018641820
+    second: Armas_1
+  - first:
+      213: -6266116242694421834
+    second: Armas_2
+  - first:
+      213: -1277141773960996178
+    second: Armas_3
+  - first:
+      213: 6524062796480147222
+    second: Armas_4
+  - first:
+      213: 1314446795663527177
+    second: Armas_5
+  - first:
+      213: 557692286568529788
+    second: Armas_6
+  - first:
+      213: 5618311874831494708
+    second: Armas_7
+  - first:
+      213: 4002239440427549279
+    second: Armas_8
+  - first:
+      213: -2042423980533338570
+    second: Armas_9
+  - first:
+      213: 6937523279768765334
+    second: Armas_10
+  - first:
+      213: -7891960940138201444
+    second: Armas_11
+  - first:
+      213: -2866858583263772528
+    second: Armas_12
+  - first:
+      213: -707630117231890830
+    second: Armas_13
+  - first:
+      213: 3002705631872261828
+    second: Armas_14
+  - first:
+      213: 1972703828794781933
+    second: Armas_15
+  - first:
+      213: -5528099045550810615
+    second: Armas_16
+  - first:
+      213: -720341475930385679
+    second: Armas_17
+  - first:
+      213: -3450101139867348989
+    second: Armas_18
+  - first:
+      213: 1998832573338833927
+    second: Armas_19
+  - first:
+      213: 1525100153337613493
+    second: Armas_20
+  - first:
+      213: -7109073514359288620
+    second: Armas_21
+  - first:
+      213: -8970987515629478093
+    second: Armas_22
+  - first:
+      213: -1699292971817409960
+    second: Armas_23
+  - first:
+      213: 8392866455930920010
+    second: Armas_24
+  - first:
+      213: -1153804566425274886
+    second: Armas_25
+  - first:
+      213: -6689114393721233943
+    second: Armas_26
+  - first:
+      213: 4241142740315763248
+    second: Armas_27
+  - first:
+      213: 943969566853080566
+    second: Armas_28
+  - first:
+      213: 5716919954686664409
+    second: Armas_29
+  - first:
+      213: -2319163125844979926
+    second: Armas_30
+  - first:
+      213: -6559310902182085617
+    second: Armas_31
+  - first:
+      213: 5865377990235991846
+    second: Armas_32
+  - first:
+      213: -8793344107185657864
+    second: Armas_33
+  - first:
+      213: -8641855462689144102
+    second: Armas_34
+  - first:
+      213: 953626245643227235
+    second: Armas_35
+  - first:
+      213: 4956986319108008307
+    second: Armas_36
+  - first:
+      213: -5909468491027032367
+    second: Armas_37
+  - first:
+      213: 4774342026650531620
+    second: Armas_38
+  - first:
+      213: -933518779727496137
+    second: Armas_39
+  - first:
+      213: -129917743696647673
+    second: Armas_40
+  - first:
+      213: 8143520239550056031
+    second: Armas_41
+  - first:
+      213: 4346264551215580841
+    second: Armas_42
+  - first:
+      213: -5836259820880010834
+    second: Armas_43
+  - first:
+      213: 4346809972338415742
+    second: Armas_44
+  - first:
+      213: 4300892275858635280
+    second: Armas_45
+  - first:
+      213: 4377852802665680367
+    second: Armas_46
+  - first:
+      213: -330797970397918344
+    second: Armas_47
+  - first:
+      213: 3881345532006706332
+    second: Armas_48
+  - first:
+      213: 9010618735440998390
+    second: Armas_49
+  - first:
+      213: -8091053632337577486
+    second: Armas_50
+  - first:
+      213: -2740136589107425376
+    second: Armas_51
+  - first:
+      213: -762722287352524128
+    second: Armas_52
+  - first:
+      213: -7345473564553048346
+    second: Armas_53
+  - first:
+      213: 8020326542105680702
+    second: Armas_54
+  - first:
+      213: -3576221149837668248
+    second: Armas_55
+  - first:
+      213: 1294720118226391922
+    second: Armas_56
+  - first:
+      213: 3230977249310912955
+    second: Armas_57
+  - first:
+      213: 1853911044069390809
+    second: Armas_58
+  - first:
+      213: 2817319211487775307
+    second: Armas_59
+  - first:
+      213: 7614725031762508966
+    second: Armas_60
+  - first:
+      213: -2263538910893713497
+    second: Armas_61
+  - first:
+      213: 7382414638856848582
+    second: Armas_62
+  - first:
+      213: -2972904683577782171
+    second: Armas_63
+  - first:
+      213: -5256491623974655924
+    second: Armas_64
+  - first:
+      213: -4807546717163531560
+    second: Armas_65
+  - first:
+      213: -2813300533122634391
+    second: Armas_66
+  - first:
+      213: 3313699485494704054
+    second: Armas_67
+  - first:
+      213: 3075543565667526131
+    second: Armas_68
+  - first:
+      213: -7822540332295185562
+    second: Armas_69
+  - first:
+      213: 1389469999903464569
+    second: Armas_70
+  - first:
+      213: -3274266171176241119
+    second: Armas_71
+  - first:
+      213: -5107007370780350090
+    second: Armas_72
+  - first:
+      213: 9003759114770209797
+    second: Armas_73
+  - first:
+      213: 6807550313608379495
+    second: Armas_74
+  - first:
+      213: -7861653444206325889
+    second: Armas_75
+  - first:
+      213: 1054541336084141087
+    second: Armas_76
+  - first:
+      213: 5730669689202897939
+    second: Armas_77
+  - first:
+      213: 2225735756811630496
+    second: Armas_78
+  - first:
+      213: 3468979569852225569
+    second: Armas_79
+  - first:
+      213: -7055840275770505008
+    second: Armas_80
+  - first:
+      213: -6170991757678729711
+    second: Armas_81
+  - first:
+      213: -1946664406604226023
+    second: Armas_82
+  - first:
+      213: -3577583528888348732
+    second: Armas_83
+  - first:
+      213: -7689815004167713338
+    second: Armas_84
+  - first:
+      213: 26300786357909327
+    second: Armas_85
+  - first:
+      213: -2571964405765203867
+    second: Armas_86
+  - first:
+      213: 938437537948776494
+    second: Armas_87
+  - first:
+      213: -9117889582250467600
+    second: Armas_88
+  - first:
+      213: 5188752227396604954
+    second: Armas_89
+  - first:
+      213: 5172456752187608005
+    second: Armas_90
+  - first:
+      213: 271573925391611641
+    second: Armas_91
+  - first:
+      213: 6365753760497734367
+    second: Armas_92
+  - first:
+      213: -2167675770920640382
+    second: Armas_93
+  - first:
+      213: -1857918475399035709
+    second: Armas_94
+  - first:
+      213: 285988942957362156
+    second: Armas_95
+  - first:
+      213: -3256142132651443984
+    second: Armas_96
+  - first:
+      213: 5887888993947683479
+    second: Armas_97
+  - first:
+      213: -1307447730770282192
+    second: Armas_98
+  - first:
+      213: 5744310282551945291
+    second: Armas_99
+  - first:
+      213: -1964021907109883586
+    second: Armas_100
+  - first:
+      213: 3590755990647906919
+    second: Armas_101
+  - first:
+      213: 3194633994910883835
+    second: Armas_102
+  - first:
+      213: -6432142560626472250
+    second: Armas_103
+  - first:
+      213: 7454338209970494020
+    second: Armas_104
+  - first:
+      213: 3474108639989185712
+    second: Armas_105
+  - first:
+      213: -2926696770698488324
+    second: Armas_106
+  - first:
+      213: 1412810150769013091
+    second: Armas_107
+  - first:
+      213: -2441781992104799505
+    second: Armas_108
+  - first:
+      213: -4763093833119642602
+    second: Armas_109
+  - first:
+      213: 4285223837209977618
+    second: Armas_110
+  - first:
+      213: -1486605618942969018
+    second: Armas_111
+  - first:
+      213: 5315406213544923896
+    second: Armas_112
+  - first:
+      213: 3166522897280687540
+    second: Armas_113
+  - first:
+      213: 8299576742001575206
+    second: Armas_114
+  - first:
+      213: 4416294466784323893
+    second: Armas_115
+  - first:
+      213: 6085609166273587208
+    second: Armas_116
+  - first:
+      213: 6204751003923581954
+    second: Armas_117
+  - first:
+      213: 3856250882896690189
+    second: Armas_118
+  - first:
+      213: 8026718073923810719
+    second: Armas_119
+  - first:
+      213: -959309327936438558
+    second: Armas_120
+  - first:
+      213: -7475743078367502226
+    second: Armas_121
+  - first:
+      213: 1385280236641103304
+    second: Armas_122
+  - first:
+      213: -4001692901356895060
+    second: Armas_123
+  - first:
+      213: -5564558401713103343
+    second: Armas_124
+  - first:
+      213: 5641788287599234786
+    second: Armas_125
+  - first:
+      213: -4306280777639860837
+    second: Armas_126
+  - first:
+      213: -121378375627704259
+    second: Armas_127
+  - first:
+      213: -5452305891793246959
+    second: Armas_128
+  - first:
+      213: 6316902047431294847
+    second: Armas_129
+  - first:
+      213: -4846612655541929411
+    second: Armas_130
+  - first:
+      213: 3404036944606407566
+    second: Armas_131
+  - first:
+      213: 9118194491140075062
+    second: Armas_132
+  - first:
+      213: 5788715806037753751
+    second: Armas_133
+  - first:
+      213: 8374415646378791879
+    second: Armas_134
+  - first:
+      213: 7970945074564434786
+    second: Armas_135
+  - first:
+      213: -6019342190545030314
+    second: Armas_136
+  - first:
+      213: -8507767083546481241
+    second: Armas_137
+  - first:
+      213: 4599825824689743218
+    second: Armas_138
+  - first:
+      213: -9125030240397894733
+    second: Armas_139
+  - first:
+      213: 3724929406438524332
+    second: Armas_140
+  - first:
+      213: -8565789381960728913
+    second: Armas_141
+  - first:
+      213: -1058739715946310287
+    second: Armas_142
+  - first:
+      213: -6618621335050108375
+    second: Armas_143
+  - first:
+      213: -6774153566275856794
+    second: Armas_144
+  - first:
+      213: 5754097334332857265
+    second: Armas_145
+  - first:
+      213: 2466204917100031885
+    second: Armas_146
+  - first:
+      213: -8255393864662065882
+    second: Armas_147
+  - first:
+      213: 8039020011947748970
+    second: Armas_148
+  - first:
+      213: -2796627111539234452
+    second: Armas_149
+  - first:
+      213: -6756357537359002446
+    second: Armas_150
+  - first:
+      213: 8463306406667830343
+    second: Armas_151
+  - first:
+      213: 1572029278111617383
+    second: Armas_152
+  - first:
+      213: -8773366749793039287
+    second: Armas_153
+  - first:
+      213: 3193343488818383454
+    second: Armas_154
+  - first:
+      213: 536101788200762568
+    second: Armas_155
+  - first:
+      213: 7206936037775843927
+    second: Armas_156
+  - first:
+      213: -6251259097315435500
+    second: Armas_157
+  - first:
+      213: -127408980358337112
+    second: Armas_158
+  - first:
+      213: -2105130158266527331
+    second: Armas_159
+  - first:
+      213: 8808672853410247297
+    second: Armas_160
+  - first:
+      213: 613495290163204358
+    second: Armas_161
+  - first:
+      213: 3448670140332122942
+    second: Armas_162
+  - first:
+      213: -8445434406291517792
+    second: Armas_163
+  - first:
+      213: -8763855967653395638
+    second: Armas_164
+  - first:
+      213: 7986551822912361523
+    second: Armas_165
+  - first:
+      213: -3055329109999753169
+    second: Armas_166
+  - first:
+      213: -7696624321166778244
+    second: Armas_167
+  - first:
+      213: -6487344003392476049
+    second: Armas_168
+  - first:
+      213: 4842282479718645760
+    second: Armas_169
+  - first:
+      213: 3986027592710163388
+    second: Armas_170
+  - first:
+      213: -2445247376769567671
+    second: Armas_171
+  - first:
+      213: 5059949968571556387
+    second: Armas_172
+  - first:
+      213: 8812140341026373213
+    second: Armas_173
+  - first:
+      213: -387788186617914534
+    second: Armas_174
+  - first:
+      213: 5804914660778506097
+    second: Armas_175
+  - first:
+      213: 4429120825641507302
+    second: Armas_176
+  - first:
+      213: -7413733425731010735
+    second: Armas_177
+  - first:
+      213: 438030884315067721
+    second: Armas_178
+  - first:
+      213: 5924590439305929369
+    second: Armas_179
+  - first:
+      213: 6408390791659172439
+    second: Armas_180
+  - first:
+      213: -6153904169099666520
+    second: Armas_181
+  - first:
+      213: -1119140711605037116
+    second: Armas_182
+  - first:
+      213: -8603801289808403581
+    second: Armas_183
+  - first:
+      213: 2809699120384445739
+    second: Armas_184
+  - first:
+      213: -3936931813347984193
+    second: Armas_185
+  - first:
+      213: -7358581564875355783
+    second: Armas_186
+  - first:
+      213: 7428178232742635495
+    second: Armas_187
+  - first:
+      213: 4867761397727500
+    second: Armas_188
+  - first:
+      213: -3346760472621165748
+    second: Armas_189
+  - first:
+      213: 4448837104781403529
+    second: Armas_190
+  - first:
+      213: 544802484437546220
+    second: Armas_191
+  - first:
+      213: -5803307887038342946
+    second: Armas_192
+  - first:
+      213: 375957792808664218
+    second: Armas_193
+  - first:
+      213: -6308256467388721579
+    second: Armas_194
+  - first:
+      213: -1339754703582918764
+    second: Armas_195
+  - first:
+      213: -7482170282098921922
+    second: Armas_196
+  - first:
+      213: -5094318063682888796
+    second: Armas_197
+  - first:
+      213: 7129864430982166432
+    second: Armas_198
+  - first:
+      213: -1189603920956921705
+    second: Armas_199
+  - first:
+      213: -571288412148308178
+    second: Armas_200
+  - first:
+      213: -3214433097968616703
+    second: Armas_201
+  - first:
+      213: 7372127400964959693
+    second: Armas_202
+  - first:
+      213: -8972062083237862548
+    second: Armas_203
+  - first:
+      213: -7342062239052234026
+    second: Armas_204
+  - first:
+      213: -1096934247322676171
+    second: Armas_205
+  - first:
+      213: 5556673459307204322
+    second: Armas_206
+  - first:
+      213: 3521798919277070374
+    second: Armas_207
+  - first:
+      213: 805268132428581217
+    second: Armas_208
+  - first:
+      213: 1811937874242862933
+    second: Armas_209
+  - first:
+      213: -7386863913008257458
+    second: Armas_210
+  - first:
+      213: 7251866702769541884
+    second: Armas_211
+  - first:
+      213: -1829249383077760779
+    second: Armas_212
+  - first:
+      213: -5768729699854466489
+    second: Armas_213
+  - first:
+      213: 4356189456161693752
+    second: Armas_214
+  - first:
+      213: -7835064334662933212
+    second: Armas_215
+  - first:
+      213: 2907668816379781157
+    second: Armas_216
+  - first:
+      213: -680458004887678598
+    second: Armas_217
+  - first:
+      213: -335248636800283485
+    second: Armas_218
+  - first:
+      213: 43209316170164664
+    second: Armas_219
+  - first:
+      213: 36848232484447771
+    second: Armas_220
+  - first:
+      213: 7511668788517593701
+    second: Armas_221
+  - first:
+      213: 7360456485848831394
+    second: Armas_222
+  - first:
+      213: 2686632722906835225
+    second: Armas_223
+  - first:
+      213: -8676642103186092329
+    second: Armas_224
+  - first:
+      213: 7089799658198255185
+    second: Armas_225
+  - first:
+      213: -2245666947889058273
+    second: Armas_226
+  - first:
+      213: 7209019864172488999
+    second: Armas_227
+  - first:
+      213: 7009380323408227270
+    second: Armas_228
+  - first:
+      213: -4042611279205946632
+    second: Armas_229
+  - first:
+      213: -7268882706895933246
+    second: Armas_230
+  - first:
+      213: 5830912932708435539
+    second: Armas_231
+  - first:
+      213: -8179819652329096047
+    second: Armas_232
+  - first:
+      213: 2441064542740987950
+    second: Armas_233
+  - first:
+      213: -5227951369197678506
+    second: Armas_234
+  - first:
+      213: -2931304387323406272
+    second: Armas_235
+  - first:
+      213: 2447647082486983487
+    second: Armas_236
+  - first:
+      213: 8619968734389646091
+    second: Armas_237
+  - first:
+      213: 4235376519993568905
+    second: Armas_238
+  - first:
+      213: -4246065029432183528
+    second: Armas_239
+  - first:
+      213: 7313063962784218460
+    second: Armas_240
+  - first:
+      213: -7089105715744444198
+    second: Armas_241
+  - first:
+      213: -1996844354195955232
+    second: Armas_242
+  - first:
+      213: 466000788686217756
+    second: Armas_243
+  - first:
+      213: 8087007122109891865
+    second: Armas_244
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Armas_0
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1826
+        width: 257
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0fa96e19aadcab50800000000000000
+      internalID: 6605895173340245770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas_2
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1831
+        width: 190
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2c4e00a784a09a0800000000000000
+      internalID: -6266116242694421834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas_3
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1838
+        width: 134
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa1e3bb25ea64ee0800000000000000
+      internalID: -1277141773960996178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas_4
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1814
+        width: 194
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f6a842c802a8a50800000000000000
+      internalID: 6524062796480147222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas_6
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 1851
+        width: 147
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f74ea0e225db700800000000000000
+      internalID: 557692286568529788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas_7
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 1833
+        width: 156
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ea0b012e048fd40800000000000000
+      internalID: 5618311874831494708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas_8
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 1849
+        width: 143
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f520eb8f09fca8730800000000000000
+      internalID: 4002239440427549279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas_11
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 1841
+        width: 117
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9efdcd965f1a7290800000000000000
+      internalID: -7891960940138201444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas_14
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1623
+        width: 215
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce9fc8fcd0cba920800000000000000
+      internalID: 3002705631872261828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas_17
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1574
+        width: 159
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f250328e35d006f0800000000000000
+      internalID: -720341475930385679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas_19
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 1574
+        width: 213
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704575b92a74dbb10800000000000000
+      internalID: 1998832573338833927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas_20
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 1512
+        width: 267
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc0596528e3a2510800000000000000
+      internalID: 1525100153337613493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas_21
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 1545
+        width: 192
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc0a7edd4f775d90800000000000000
+      internalID: -7109073514359288620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas_23
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1583
+        width: 176
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852618d9b06ea68e0800000000000000
+      internalID: -1699292971817409960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas_24
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1621
+        width: 116
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4cdd090393797470800000000000000
+      internalID: 8392866455930920010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas_27
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 1631
+        width: 93
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0327f3e0ad09bda30800000000000000
+      internalID: 4241142740315763248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas_33
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1307
+        width: 160
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7ac67af14c7f580800000000000000
+      internalID: -8793344107185657864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas_36
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 1319
+        width: 166
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37967e24bc0cac440800000000000000
+      internalID: 4956986319108008307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas_37
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1317
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d658f497b95dfda0800000000000000
+      internalID: -5909468491027032367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas_38
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1339
+        width: 118
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42739b617ced14240800000000000000
+      internalID: 4774342026650531620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas_40
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1347
+        width: 97
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ae0fc1080723ef0800000000000000
+      internalID: -129917743696647673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas_41
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1340
+        width: 129
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56c59bf288930170800000000000000
+      internalID: 8143520239550056031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas_43
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1373
+        width: 90
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1ef8f5d90710fa0800000000000000
+      internalID: -5836259820880010834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas_45
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 1350
+        width: 117
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a76cfdcb6dfab30800000000000000
+      internalID: 4300892275858635280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1042
+        width: 236
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c2fc5723f4dd530800000000000000
+      internalID: 3881345532006706332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas_49
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1095
+        width: 119
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffa074eff52c0d70800000000000000
+      internalID: 9010618735440998390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas_53
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 1064
+        width: 217
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee0bc506b2af0a90800000000000000
+      internalID: -7345473564553048346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas_54
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 1067
+        width: 98
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b98dc1f7ced4f60800000000000000
+      internalID: 8020326542105680702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas_55
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1074
+        width: 119
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860dfa5dfc5be5ec0800000000000000
+      internalID: -3576221149837668248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas_57
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 1074
+        width: 119
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1bb8690bcb6dc20800000000000000
+      internalID: 3230977249310912955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas_59
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 1067
+        width: 157
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4acc9365e0291720800000000000000
+      internalID: 2817319211487775307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas_62
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1101
+        width: 91
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4c4b5100b937660800000000000000
+      internalID: 7382414638856848582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas_66
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 781
+        width: 229
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96deec4121625f8d0800000000000000
+      internalID: -2813300533122634391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas_67
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 757
+        width: 195
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b77e451020acfd20800000000000000
+      internalID: 3313699485494704054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas_68
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 820
+        width: 230
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5e9daf3968eaa20800000000000000
+      internalID: 3075543565667526131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas_70
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 813
+        width: 215
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97cde4a6a93684310800000000000000
+      internalID: 1389469999903464569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas_71
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 800
+        width: 159
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12836fed3487f82d0800000000000000
+      internalID: -3274266171176241119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas_74
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 800
+        width: 155
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76cf93931f6497e50800000000000000
+      internalID: 6807550313608379495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas_75
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 820
+        width: 143
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f0bd668dbc5e290800000000000000
+      internalID: -7861653444206325889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas_76
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 786
+        width: 170
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14d24a02cb72ae00800000000000000
+      internalID: 1054541336084141087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas_83
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 578
+        width: 165
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf425e3cbed95ec0800000000000000
+      internalID: -3577583528888348732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armas_85
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 556
+        width: 153
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f473d240d607d5000800000000000000
+      internalID: 26300786357909327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,817 @@
+fileFormatVersion: 2
+guid: 79d9c2eb44480124bb1783882e1748d5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3108444564880558835
+    second: Mikka_atlas_0
+  - first:
+      213: -8603855067927260383
+    second: Mikka_atlas_1
+  - first:
+      213: 830824556066799303
+    second: Mikka_atlas_2
+  - first:
+      213: 6075941234397161559
+    second: texto_1
+  - first:
+      213: 7568273467381066539
+    second: gato_1
+  - first:
+      213: 617517260683388259
+    second: cola_gato
+  - first:
+      213: 2990200046333375491
+    second: Mikka_atlas_6
+  - first:
+      213: -9218465782017513405
+    second: Mikka_atlas_7
+  - first:
+      213: 5679776641630037214
+    second: Mikka_atlas_8
+  - first:
+      213: -4269544591379875389
+    second: Mikka_atlas_9
+  - first:
+      213: -7706335077649685724
+    second: Mikka_atlas_10
+  - first:
+      213: -8429074889418160578
+    second: ojos_2
+  - first:
+      213: 8368459770594436908
+    second: Mikka_atlas_12
+  - first:
+      213: 1647260640092181300
+    second: texto_2
+  - first:
+      213: -5630000443552346335
+    second: Mikka_atlas_14
+  - first:
+      213: -7720354956007155121
+    second: Mikka_atlas_15
+  - first:
+      213: -3443089059941987234
+    second: gorra_1
+  - first:
+      213: 1051372748574651346
+    second: ojos_1
+  - first:
+      213: -2456200927132899117
+    second: Mikka_atlas_18
+  - first:
+      213: -3628490306383600094
+    second: pie_1
+  - first:
+      213: -1086905471290041220
+    second: cabello_1
+  - first:
+      213: 7955799200410318996
+    second: nube_1
+  - first:
+      213: 6124562983005169874
+    second: viento_1
+  - first:
+      213: -5511930509928604183
+    second: Mikka_atlas_23
+  - first:
+      213: -997330035115126036
+    second: Mikka_atlas_24
+  - first:
+      213: 4719695848074688701
+    second: cuerpo_1
+  - first:
+      213: -9007974575108560881
+    second: cabello_2
+  - first:
+      213: 7753212840038578586
+    second: ave_volando
+  - first:
+      213: 6552314156287109022
+    second: pie_2
+  - first:
+      213: 5367948753448140272
+    second: mano_2
+  - first:
+      213: 8110548910720707012
+    second: pies_ave
+  - first:
+      213: -5334170041251329105
+    second: cola_nina
+  - first:
+      213: -5167211904441354050
+    second: mano_1
+  - first:
+      213: -3731094360822807804
+    second: ave_de_pie
+  - first:
+      213: -7310351014752250009
+    second: suelo_banco
+  - first:
+      213: 7970496531203260027
+    second: hoja_1
+  - first:
+      213: -3836863176058009097
+    second: background
+  - first:
+      213: -770260240843787282
+    second: nube_2
+  - first:
+      213: -4560974662448343318
+    second: hoja_2
+  - first:
+      213: -9134295293394301426
+    second: nume_3
+  - first:
+      213: 2010548774284976822
+    second: flor_1
+  - first:
+      213: 4071811493619479523
+    second: flor_2
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: texto_1
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 814
+        width: 688
+        height: 135
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8025431}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75824686c54125450800000000000000
+      internalID: 6075941234397161559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 684
+        width: 138
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b2342ce98e70960800000000000000
+      internalID: 7568273467381066539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cola_gato
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 684
+        width: 31
+        height: 64
+      alignment: 9
+      pivot: {x: 0.4125829, y: 0.07657242}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365a4b54dacd19800800000000000000
+      internalID: 617517260683388259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ojos_2
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 628
+        width: 37
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36c0171c09e50b80800000000000000
+      internalID: -8429074889418160578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texto_2
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 596
+        width: 760
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5025591, y: 0.90153176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4335d2913de3cd610800000000000000
+      internalID: 1647260640092181300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorra_1
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 535
+        width: 132
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5046929, y: 0.009604136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ccf140eb0b730d0800000000000000
+      internalID: -3443089059941987234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ojos_1
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 559
+        width: 68
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d37155c1f9379e00800000000000000
+      internalID: 1051372748574651346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pie_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 466
+        width: 51
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5485849, y: 0.29351708}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226ae097a4305adc0800000000000000
+      internalID: -3628490306383600094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabello_1
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 498
+        width: 11
+        height: 21
+      alignment: 9
+      pivot: {x: 0.18070568, y: 0.8763079}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c14578b398ae0f0800000000000000
+      internalID: -1086905471290041220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nube_1
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 298
+        width: 321
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4983bcc983da86e60800000000000000
+      internalID: 7955799200410318996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: viento_1
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 365
+        width: 955
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8a78e6591def450800000000000000
+      internalID: 6124562983005169874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpo_1
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 296
+        width: 204
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8b0682e5abf7140800000000000000
+      internalID: 4719695848074688701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabello_2
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 435
+        width: 18
+        height: 35
+      alignment: 9
+      pivot: {x: 0.8048774, y: 0.9264814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0867e8a9de3df280800000000000000
+      internalID: -9007974575108560881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ave_volando
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 376
+        width: 71
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a993f7eeff1f89b60800000000000000
+      internalID: 7753212840038578586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pie_2
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 374
+        width: 55
+        height: 61
+      alignment: 9
+      pivot: {x: 0.41788074, y: 0.30749112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97a14e620f7eea50800000000000000
+      internalID: 6552314156287109022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mano_2
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 349
+        width: 36
+        height: 48
+      alignment: 9
+      pivot: {x: 0.7576938, y: 0.9137694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fdf6cd53f8ce7a40800000000000000
+      internalID: 5367948753448140272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pies_ave
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 343
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c960f443457e8070800000000000000
+      internalID: 8110548910720707012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cola_nina
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 257
+        width: 69
+        height: 86
+      alignment: 9
+      pivot: {x: 0.9058369, y: 0.79410285}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab0fafeb9839f5b0800000000000000
+      internalID: -5334170041251329105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mano_1
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 283
+        width: 64
+        height: 47
+      alignment: 9
+      pivot: {x: 0.1438942, y: 0.9334483}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb87a9466206a48b0800000000000000
+      internalID: -5167211904441354050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ave_de_pie
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 253
+        width: 52
+        height: 58
+      alignment: 9
+      pivot: {x: 0.55677325, y: 0.07583565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40381bf627d783cc0800000000000000
+      internalID: -3731094360822807804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suelo_banco
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 9
+        width: 1013
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7679646eb7a6c8a90800000000000000
+      internalID: -7310351014752250009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hoja_1
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 201
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e7ad99d54ec9e60800000000000000
+      internalID: 7970496531203260027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 9
+        width: 327
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9094b1549b0cac0800000000000000
+      internalID: -3836863176058009097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nube_2
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 43
+        width: 326
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee336e7546c7f45f0800000000000000
+      internalID: -770260240843787282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hoja_2
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 130
+        width: 37
+        height: 39
+      alignment: 9
+      pivot: {x: 0.7299293, y: 0.30083174}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae69537a5b924b0c0800000000000000
+      internalID: -4560974662448343318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nume_3
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 44
+        width: 156
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ec5b383d67c3180800000000000000
+      internalID: -9134295293394301426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor_1
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 67
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b26ad63577e6eb10800000000000000
+      internalID: 2010548774284976822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor_2
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 15
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3ba85eafaf18830800000000000000
+      internalID: 4071811493619479523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
